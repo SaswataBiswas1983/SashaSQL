@@ -9,4 +9,8 @@
 ##### ● Do sales figures vary between geographic regions?
 #### Context: This project involves using SQL for in-depth data analysis to address queries from different departments, enhancing decision-making for the upcoming online service transition. Skills acquired here are transferable across industries, underscoring problem-solving abilities in data analytics.
 #### Data Set: The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
-Rockbuster Data Set
+#### Project Deliverables: The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
+#### Final Analysis:
+##### SQL queries addressing the management’s questions.
+##### Visualizations in Tableau Public.
+##### A narrative story combining data insights with business strategies.
