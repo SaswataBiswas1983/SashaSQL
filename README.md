@@ -14,3 +14,4 @@
 ##### SQL queries addressing the management’s questions.
 ##### Visualizations in Tableau Public.
 ##### A narrative story combining data insights with business strategies.
+[Visualizations in Tableau](https://public.tableau.com/app/profile/saswata.biswas1126/viz/Rockbuster-SaswataBiswas/Top10Movies)
